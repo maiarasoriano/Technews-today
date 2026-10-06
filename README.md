@@ -1,6 +1,6 @@
 # Technews-today
 
-Este repositório contém o projeto **Technews-today**, desenvolvido para fins acadêmicos.
+Este repositório contém as duas pastas do projeto, tanto o HTML quanto o CSS.
 
 ---
 
